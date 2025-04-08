@@ -1,0 +1,22 @@
+
+/* Chatbox Container */
+.chatbox {
+  width: 300px;
+  height: auto;
+  border: 2px solid #ccc;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  font-family: Arial, sans-serif;
+  position: relative;
+  left: 40%;
+}
+
+/* Chatbox Header */
+.chatbox-header {
+  background-color: #2f445f;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  font-size: 18px;
+}

@@ -1,0 +1,32 @@
+.heading{
+    font-size: 12px;
+    padding: 10px;
+}
+.chatbox-footer {
+    display: flex;
+    padding: 10px;
+    background-color: #fff;
+}
+
+.chatbox-footer input {
+    flex: 1;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px;
+}
+
+.chatbox-footer button {
+    padding: 8px 12px;
+    background-color: #2f445f;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    font-size: 14px;
+    cursor: pointer;
+    margin-left: 10px;
+}
+
+.chatbox-footer button:hover {
+    background-color: #2f445f;
+}
